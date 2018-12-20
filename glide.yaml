@@ -1,0 +1,9 @@
+package: github.com/aprchen/db
+import:
+- package: github.com/containous/traefik
+  subpackages:
+  - safe
+- package: github.com/didi/gendry
+  subpackages:
+  - manager
+- package: github.com/go-sql-driver/mysql
