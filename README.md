@@ -1,4 +1,5 @@
-#mysql 
+#Introduce 
+this project is a hot start about database works with [traefik](https://github.com/containous/traefik) , Usually there would be another project used to listen the change of db configure
 
 Install
 ```go
